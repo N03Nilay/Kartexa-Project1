@@ -1,0 +1,99 @@
+.certi{
+    margin-bottom: 12rem;
+}
+.certi-content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    position: absolute;
+width: 70%;
+height: 100%;
+border-radius: 10px;
+background-image: url(../images/certi.png);
+mix-blend-mode: normal;
+box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+margin-left: 16rem;
+margin-top: 5px; 
+background-position-y: 50%;
+background-size: 114% 180%;
+background-position-x: 50%;
+
+}
+.head-content{
+    font-size: 25px;
+    font-weight: 500;
+}
+.head-2{
+    font-size: 45px;
+    font-weight: 600;
+}
+.certi-head{
+   
+    margin-left: 15rem;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+}
+.certi-logo{
+    position: absolute;
+    width: 13rem;
+    height: 5rem;
+    right: 14rem;
+    margin-top: 15px;
+}
+
+.head-content{
+    flex: 1;
+}
+.certi-mid{
+    margin: 6rem 6px 8px 8rem;
+}
+.name{
+   margin: 10px 6rem;
+   font-size: 50px;
+   font-weight: 600;
+}
+.details{
+    margin: 10px 30px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.line{
+    margin-top: 6rem;
+    margin-left: 8rem;
+    width: 140px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.desig-all{
+    margin-left: 8rem;
+}
+.desig-name{
+    font-weight: 700;
+}
+.desig{
+    font-weight: 500;
+    
+}
+.qr{
+    width: 150px;
+    height: 150px;
+}
+.qr{
+    position: absolute;
+    left: 34rem;
+    bottom: 4rem;
+    margin-bottom: 3px;
+}
+.certi-right>p{
+    position: absolute;
+    left: 34.25rem;
+    font-size: 12px;
+    font-weight: 700;
+}
+.certi-btn{
+    width: 60px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    color: black;
+}
